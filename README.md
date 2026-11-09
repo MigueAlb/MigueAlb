@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**MigueAlb/MigueAlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hola, soy Miguel Alvarado 🐈‍⬛
+### Computer Engineering Student  |  Software Development & Game Development
+---
+## Un poco sobre mí
+---
+## Áreas de interés
+---
+## Tecnologías y habilidades 
+### Lenguajes de programación
+### Herramientas y tecnologías
+### Aplicaciones y entornos de desarrollo
+---
+## Proyectos destacados
+---
+## Algunas de mis experiencias en robótica
+---
+## Contacto 
+---
+* Gracias por visitar mi perfíl uwu. Haz compilar tu código y tus aventuras nunca terminarán. 🐈‍⬛✨ *
