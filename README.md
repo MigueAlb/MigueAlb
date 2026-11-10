@@ -2,7 +2,7 @@
 
 ### Computer Engineering Student  |  Software Development & Game Development
 
-![Banner de gato](assets/banner%20V2.jpeg)
+![Banner de gato magico](assets/Coding%20Coven%20Cat.gif)
 
 *✨ I'm exloring the world of code one spell at a time ✨*
 
@@ -79,7 +79,9 @@ Estos son algunos de los poryectos en los que he trabajado que reflejan mis cono
 Mi interés por la tecnología también me llevo a explorar el mundo de la robótica, participando en diferentes competencias durante mi etapa escolar.
 
 **Metal Challenge Robotics Competition 2019** — COPOL.
+
 **Torneo de Robótica TRACE 2020** — Campus Colegio Americano.
+
 **RoboMatrix Ecuador 2020**.
 
 ---
@@ -94,5 +96,7 @@ Siempre estoy abierto a conocer nuevas personas y ver que ideas tienen que compa
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelalbertoalvaradomacias@gmail.com)
 
 ---
+
+![Banner de gato magico](assets/Coding%20Coven%20Cat.gif)
 
 * Gracias por visitar mi perfíl uwu. Haz compilar tu código y tus aventuras nunca terminarán. 🐈‍⬛✨ *
