@@ -2,6 +2,8 @@
 
 ### Computer Engineering Student  |  Software Development & Game Development
 
+![Banner de gato](assets/banner%20V1.jpeg)
+
 *✨ I'm exloring the world of code one spell at a time ✨*
 
 Soy estudiante de sexto semestre de Ingeniería en Computación en la **Escuela Superior Politécnica del Litoral (ESPOL)**. Me interesa el desarrollo de software, los videojuegos y la exploración de nuevas tecnologías. Disfruto aprender por mi cuenta diferentes lenguajes de programación y descubrir cómo funcionan ciertas herramientas que se utilizan para desarrollar videojuegos u otras experiencias virtuales.
