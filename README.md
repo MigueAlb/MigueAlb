@@ -2,7 +2,7 @@
 
 ### Computer Engineering Student  |  Software Development & Game Development
 
-![Banner de gato](assets/banner%20V1.jpeg)
+![Banner de gato](assets/banner%20V2.jpeg)
 
 *✨ I'm exloring the world of code one spell at a time ✨*
 
