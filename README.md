@@ -4,7 +4,7 @@
 
 ![Banner de gato magico](assets/Coding%20Coven%20Cat.gif)
 
-*✨ I'm exloring the world of code one spell at a time ✨*
+*✨ I'm exploring the world of code, one spell at a time ✨*
 
 Soy estudiante de sexto semestre de Ingeniería en Computación en la **Escuela Superior Politécnica del Litoral (ESPOL)**. Me interesa el desarrollo de software, los videojuegos y la exploración de nuevas tecnologías. Disfruto aprender por mi cuenta diferentes lenguajes de programación y descubrir cómo funcionan ciertas herramientas que se utilizan para desarrollar videojuegos u otras experiencias virtuales.
 
@@ -21,7 +21,9 @@ Además de todo lo relacionado a la tecnología, también disfruto mucho nadar, 
 Me encanta poder encontrar la versatilidad de la computación y explorar que más campos o áreas son de mi interés. 
 
 **Desarrollo de videojuegos:** exploración de motores, lenguajes y herramientas para desarrollar videojuegos.
+
 **Desarrollo de software:** diseño y desarrollo de aplicaciones y soluciones informáticas.
+
 **Robótica:** programación, automatización y experimentación con hardware.
 
 ---
