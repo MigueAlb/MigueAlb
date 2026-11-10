@@ -49,7 +49,13 @@ Las tecnologías y herramientas que manejo en la actualidad son gracias a mi rec
 
 ### Aplicaciones y entornos de desarrollo
 
-
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-00457C?style=for-the-badge&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 ## Proyectos destacados
